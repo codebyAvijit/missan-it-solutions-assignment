@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Ball",
+    "price": 40,
+    "availableCount": 25,
+    "category": "Sports"
+  },
+  {
+    "id": 2,
+    "name": "Bat",
+    "price": 1200,
+    "availableCount": 5,
+    "category": "Sports"
+  },
+  {
+    "id": 3,
+    "name": "HP pendrive",
+    "price": 350,
+    "availableCount": 31,
+    "category": "Computer"
+  },
+  {
+    "id": 4,
+    "name": "Mouse",
+    "price": 349.99,
+    "availableCount": 2,
+    "category": "Computer"
+  },
+  {
+    "id": 5,
+    "name": "Keyboard",
+    "price": 1100,
+    "availableCount": 8,
+    "category": "Computer"
+  },
+  {
+    "id": 6,
+    "name": "Shoes",
+    "price": 850,
+    "availableCount": 5,
+    "category": "Footwear"
+  },
+  {
+    "id": 7,
+    "name": "Watch",
+    "price": 2000,
+    "availableCount": 9,
+    "category": "Wearables"
+  },
+  {
+    "id": 8,
+    "name": "Gloves",
+    "price": 40,
+    "availableCount": 25,
+    "category": "Sports"
+  },
+  {
+    "id": 9,
+    "name": "Baseball Bat",
+    "price": 1200,
+    "availableCount": 5,
+    "category": "Sports"
+  },
+  {
+    "id": 10,
+    "name": "Hardisk",
+    "price": 350,
+    "availableCount": 31,
+    "category": "Computer"
+  },
+  {
+    "id": 11,
+    "name": "Data Cable",
+    "price": 349.99,
+    "availableCount": 2,
+    "category": "Computer"
+  },
+  {
+    "id": 12,
+    "name": "Charger",
+    "price": 1100,
+    "availableCount": 8,
+    "category": "Computer"
+  },
+  {
+    "id": 13,
+    "name": "Sandals",
+    "price": 850,
+    "availableCount": 5,
+    "category": "Footwear"
+  },
+  {
+    "id": 14,
+    "name": "Smart Watch",
+    "price": 2000,
+    "availableCount": 9,
+    "category": "Wearables"
+  },
+  {
+    "id": 15,
+    "name": "Maggi",
+    "price": 40,
+    "availableCount": 25,
+    "category": "Eatables"
+  },
+  {
+    "id": 16,
+    "name": "Pasta",
+    "price": 1200,
+    "availableCount": 5,
+    "category": "Eatables"
+  },
+  {
+    "id": 17,
+    "name": "Noodles",
+    "price": 350,
+    "availableCount": 31,
+    "category": "Eatables"
+  },
+  {
+    "id": 18,
+    "name": "Pizza Base",
+    "price": 349.99,
+    "availableCount": 2,
+    "category": "Eatables"
+  },
+  {
+    "id": 19,
+    "name": "Pickles",
+    "price": 1100,
+    "availableCount": 8,
+    "category": "Eatables"
+  },
+  {
+    "id": 20,
+    "name": "Biscuits",
+    "price": 850,
+    "availableCount": 5,
+    "category": "Eatables"
+  }
+]
